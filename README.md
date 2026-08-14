@@ -1,4 +1,6 @@
-# VBNote
+# VBNote-ARM64
+**Code and binaries for Windows ARM64
+
 
 **An emulator of the VoiceNote QT and BrailleNote mPower, for when yours has
 died and there is no replacement.**
